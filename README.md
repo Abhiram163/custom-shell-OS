@@ -1,4 +1,4 @@
-# Simple Unix Shell
+# Custom Unix Shell
 
 A basic Unix shell written in C as an Operating Systems project.
 
